@@ -869,9 +869,9 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 
 ## [Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
 
-> Easily switch between projects.
+> You can define your own Projects (also called Favorites), or choose for auto-detect Git, Mercurial or SVN repositories, VSCode folders, or any other folder.
 
-![Switch between projects screenshot](https://raw.githubusercontent.com/alefragnani/vscode-project-manager/master/images/project-manager-commands.png)
+![View and filter saved projects](https://github.com/alefragnani/vscode-project-manager/raw/HEAD/images/vscode-project-manager-side-bar-tags.gif)
 
 ## [Project Dashboard](https://marketplace.visualstudio.com/items?itemName=kruemelkatze.vscode-dashboard)
 
