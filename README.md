@@ -453,6 +453,8 @@ See the difference between these two [here](https://github.com/michaelgmcd/vscod
 
 > This is a DAP-based JavaScript debugger. It debugs Node.js, Chrome, Edge, WebView2, VS Code extensions, and more.
 
+![Debugging JavaScript on VS Code](https://github.com/Microsoft/vscode-pwa/raw/HEAD/resources/readme/returnvalue.png)
+
 ### Facebook Flow
 
 - [Flow Language Support](https://marketplace.visualstudio.com/items?itemName=flowtype.flow-for-vscode) - provides all the functionality you would expect — linting, intellisense, type tooltips and click-to-definition
