@@ -53,7 +53,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [JavaScript](#javascript)
     - [Linters](#linters)
     - [Framework-specific](#framework-specific)
-    - [Debugger for Chrome](#debugger-for-chrome)
+    - [JavaScript Debugger](#javascript-debugger)
     - [Facebook Flow](#facebook-flow)
     - [TypeScript](#typescript)
   - [MATLAB](#matlab)
@@ -449,9 +449,9 @@ See the difference between these two [here](https://github.com/michaelgmcd/vscod
 - [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur) - Toolkit for Vue.js
 ![Vetur](screenshots/Vetur.png)
 
-### [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
+### [JavaScript Debugger](https://marketplace.visualstudio.com/items?itemName=ms-vscode.js-debug)
 
-> A VS Code extension to debug your JavaScript code in the Chrome browser, or other targets that support the Chrome Debugging Protocol.
+> This is a DAP-based JavaScript debugger. It debugs Node.js, Chrome, Edge, WebView2, VS Code extensions, and more.
 
 ### Facebook Flow
 
