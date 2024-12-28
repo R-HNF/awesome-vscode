@@ -39,7 +39,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
     - [Shellman](#shellman)
   - [C++](#c)
       - [More](#more)
-  - [C\#, ASP .NET and .NET Core](#c-asp-net-and-net-core)
+  - [C#, ASP .NET and .NET Core](#c-asp-net-and-net-core)
   - [Clojure](#clojure)
     - [Calva](#calva)
   - [CSS](#css)
@@ -89,7 +89,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [Azure Cosmos DB](#azure-cosmos-db)
   - [Azure IoT Toolkit](#azure-iot-toolkit)
   - [Bookmarks](#bookmarks)
-  - [Browser Preview (deprecated)](#browser-preview)
+  - [Browser Preview (deprecated)](#browser-preview-deprecated)
   - [Color Tabs](#color-tabs)
   - [Create tests](#create-tests)
   - [Dendron](#dendron)
@@ -139,7 +139,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [WakaTime](#wakatime)
   - [Yo](#yo)
   - [Timing](#timing)
-- [Formatting & Beautification](#formatting--beautification)
+- [Formatting \& Beautification](#formatting--beautification)
   - [Better Align](#better-align)
   - [Auto Rename Tag](#auto-rename-tag)
   - [beautify](#beautify)
@@ -1468,7 +1468,7 @@ A list of Twitter accounts for various people in the VS Code Community
 - [Yo Code - Extension Generator](https://code.visualstudio.com/docs/extensions/yocode)
 - [Open in Code](https://github.com/sozercan/OpenInCode) - macOS Finder toolbar app to open current folder in Visual Studio Code
 
-![macOS Finder toolbar app to open current folder in Visual Studio Code animation](https://camo.githubusercontent.com/edbae5fe27d6c7af23218e60cb07e3a5061bbbab/687474703a2f2f692e696d6775722e636f6d2f4c6d56484978572e676966)
+![macOS Finder toolbar app to open current folder in Visual Studio Code animation](https://camo.githubusercontent.com/4e1efa4531bfc41a605d648532e05a881f31d57372b91d20ec9bcdce3cafbcfc/687474703a2f2f692e696d6775722e636f6d2f46355a72436d532e676966)
 
 - [Themer](https://themer.dev) - Easily create your own theme for VS Code (and matching ones for your other tools).
 - [Azure Tools for Visual Studio Code](https://github.com/bradygaster-zz/azure-tools-vscode) - This extension for Visual Studio Code gives Azure developers some convenient commands for creating or accessing resources directly in the editor.
